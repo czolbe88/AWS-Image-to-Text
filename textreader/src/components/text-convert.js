@@ -6,8 +6,8 @@ import './text-convert.css';
 var testFilePath = "c:/users/user/desktop/preprocessors.png";
 
 AWS.config.update({
-    accessKeyId: "AKIAIC6NIH2FIIDXUIYQ",
-    secretAccessKey: "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",
+    accessKeyId: "de",
+    secretAccessKey: "d",
 });
 
 const s3 = new AWS.S3();
